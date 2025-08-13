@@ -4,7 +4,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Test-IGS (IGS)</h3>
+  <h3 align="center">Test on IGS</h3>
 
   <p align="center">
     Электронный тест по интерактивным графическим системам.
